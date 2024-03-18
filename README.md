@@ -34,63 +34,23 @@
 
 ➡ 나이, 성별, MBTI별 코스 확인
 
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/91a0237b-a71b-44cb-9ac0-ec58c9db996d" width="600" height="350">
+<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/1ee3a8a3-7f03-4a7d-b105-2a1c99e6a277" width="600" height="350">
 <br/><br/>
 <hr>
 
 ➡ 여행 코스 등록
 
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/ceb29df8-4347-427d-bf26-e44a26b4f3fa" width="400" height="250">
+<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/a44a72a2-ba64-489b-8afc-326ec35fd44b" width="400" height="250">
 
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/8e6b098b-569e-443d-8b97-2c7051d51602" width="400" height="250">
+<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/693ab7c1-7768-4cde-a096-9ad0d7b54a61" width="400" height="250">
 
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/6a7ca7e8-8c17-4f09-aca7-cdc226fbdc02" width="400" height="250">
+<img src="https://github.com/hayoung09/RoomMaker/assets/162979427/9a0511e8-7b2a-4447-bae9-d2a901324831" width="400" height="250">
 <br/><br/>
 <hr>
 
 ➡ 코스 상세 보기
 
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/62480bde-e3f2-4107-ba69-dd3b2d151d26" width="400" height="250">
-
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/eed2095b-98e6-4ee5-a60a-2f3893b06832" width="400" height="250">
-
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/e664ae64-1873-4734-853a-0e1256941daa" width="400" height="250">
-<br/><br/>
-<hr>
-
-➡ 지도로 코스 확인하기
-
-- 카카오 지도 API를 이용하여 구현
-
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/f21bbf96-730f-4135-988b-5cebd2f41962" width="500" height="350">
-<br/><br/>
-<hr>
-
-➡ 관리자 페이지 - 회원, 코스, 댓글 삭제/수정
-
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/3590dee6-5058-4f0b-9b1f-c8483372c942" width="400" height="250">
-
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/aa8efe87-b55e-450c-b448-cc284eba2a56" width="400" height="250">
-
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/0e3520bd-16a1-4b10-9f5c-dccc75b37e94" width="400" height="250">
-
-<img src="https://github.com/moonjinho99/RootFinder/assets/117807455/5db0a78d-18f4-4392-8533-3cbe93153e55" width="400" height="250">
-<br/><br/>
-<hr>
-
-## 🔍 ERD
-
-![image](https://github.com/moonjinho99/RootFinder/assets/117807455/7f44560a-b61a-4617-be4d-eb7c3ebf833e)
-<br/><br/>
-<hr>
-
-## 💡 이번 프로젝트를 통해 배운점
-
-➡ DB설계를 하면서 초반의 DB설계에 따라 코드의 효율성이 달라진다는 점을 알게됨
-
-➡ Model2 방식으로 개발하였으며 백엔드와 프론트엔드가 구분되어 코드 관리, 수정이 전보다 편리해짐
-
-➡ 카카오 지도 API를 사용했으며 API를 가져와 활용하는 방법이 익숙해짐
+<img src="https://github.com/hayoung09/RoomMaker/asset됨
 <br/><br/>
 <hr>
 
